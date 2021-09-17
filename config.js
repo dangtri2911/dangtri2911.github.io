@@ -1,16 +1,16 @@
 const CONFIG = {
     introTitle: 'Hee luu cậu!',
-    introDesc: `Tớ có điều này muốn hỏi cậu, nhớ phải trả lời thật lòng nha`,
+    introDesc: `I have something to tell you, remember to say the true :>`,
     btnIntro: 'oke',
-    title: 'Cậu yêu tớ có phải không 😙',
-    desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu là vợ tớ đó nha :> ',
-    btnYes: 'yêu ơi là iuuu <33',
-    btnNo: 'cậu mơ à :333',
-    question:'Nói cho tới lý do vì sao cậu yêu tớ đii <3',
-    btnReply: 'Gửi cho tớ <3',
-    reply: 'Tại vì cậu đẹp trai hihi <33333333',
-    mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
-    messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
+    title: 'You love me right 😙',
+    desc: 'Không trả lời làm chó :) ',
+    btnYes: 'I love u <33',
+    btnNo: 'Deos :333',
+    question:'Tell me the reason u love me <3',
+    btnReply: 'Send to me <3',
+    reply: 'Cause you handsome <33333333',
+    mess: 'I know that 🥰. Love you 3.000 😘😘',
+    messDesc: 'Let m know what you think :>',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/dangtri.2911/'
 }
